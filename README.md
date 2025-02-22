@@ -1,5 +1,3 @@
-Here's a unique `README.md` file for your QR Code Generator project:  
-
 ```markdown
 # 🚀 QR Code Generator
 
